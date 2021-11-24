@@ -9,7 +9,9 @@ Eulerian Circuit is an Eulerian Path which starts and ends on the same vertex.
 How to use this code?:
 1) Construct the graph with number of edges you want using the syntax below.
     Graph "graph_name" = new Graph("number_of_edges")
+    
 2) Add an edge between vertices using the syntax below.
     graph_name.addEdge("edge1", "edge2")
+    
 3)Run the test class with your graph in the main method.
     graph_name.test()
