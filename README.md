@@ -13,5 +13,5 @@ How to use this code?:
 2) Add an edge between vertices using the syntax below.
     graph_name.addEdge("edge1", "edge2")
     
-3)Run the test class with your graph in the main method.
+3)  Run the test class with your graph in the main method.
     graph_name.test()
