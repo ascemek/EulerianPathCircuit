@@ -1,7 +1,6 @@
 # EulerianPathCircuit
 
-Graph Theory Project 1
-Finding Eulerian Path & Circuit for Undirected Graphs
+Graph Theory Project 1 (Fall 2021): Finding Eulerian Path & Circuit for Undirected Graphs.
 This is the code that I write for Graph Theory Project 1 (Fall 2021).
 
 Eulerian Path is a path in graph that visits every edge exactly once. 
